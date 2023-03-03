@@ -30,6 +30,7 @@ namespace RPSSL
             List<string> aMoves = new List<string>() { "Rock", "Paper", "Scissor", "Spock", "Lizard"};
             
             //variables to track Scores
+             // The c indicates the compuiters while the p is for the person.
             int Pscore = 0;
             int Cscore = 0;
 
